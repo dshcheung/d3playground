@@ -1,3 +1,11 @@
-app.controller('RootCtrl', ['$scope',function($scope){
+app.controller('RootCtrl', ['$scope', '$rootScope', function($scope, $rootScope){
+  $rootScope.pg5 = false;
+  $rootScope.pg1 = false;
+  $scope.selected = function(tab){
+    $rootScope[tab] = true;
+  }
 
+  $scope.deselected = function(tab){
+    $rootScope[tab] = false;
+  }
 }]);
