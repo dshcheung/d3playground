@@ -42,3 +42,5 @@ gem 'bootstrap-sass', '~> 3.3.0'
 
 # angular ui bootstrap
 gem 'angular-ui-bootstrap-rails'
+
+gem 'rails_12factor', group: :production

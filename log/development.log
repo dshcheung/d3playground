@@ -53210,3 +53210,102 @@ Started GET "/assets/data.tsv" for 127.0.0.1 at 2015-03-30 18:35:25 +0800
 
 
 Started GET "/assets/data.tsv" for 127.0.0.1 at 2015-03-30 18:35:29 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2016-02-23 10:41:02 +0800
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html within layouts/application (1.4ms)
+Completed 200 OK in 304ms (Views: 303.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playground1.css?body=1" for 127.0.0.1 at 2016-02-23 10:41:02 +0800
+
+
+Started GET "/assets/playground2.css?body=1" for 127.0.0.1 at 2016-02-23 10:41:02 +0800
+
+
+Started GET "/assets/playground3.css?body=1" for 127.0.0.1 at 2016-02-23 10:41:02 +0800
+
+
+Started GET "/assets/playground4.css?body=1" for 127.0.0.1 at 2016-02-23 10:41:02 +0800
+
+
+Started GET "/assets/playground5.css?body=1" for 127.0.0.1 at 2016-02-23 10:41:02 +0800
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2016-02-23 10:41:02 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-02-23 10:41:02 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2016-02-23 10:41:02 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2016-02-23 10:41:02 +0800
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2016-02-23 10:41:02 +0800
+
+
+Started GET "/assets/angular.js?body=1" for 127.0.0.1 at 2016-02-23 10:41:02 +0800
+
+
+Started GET "/assets/angular-animate.js?body=1" for 127.0.0.1 at 2016-02-23 10:41:02 +0800
+
+
+Started GET "/assets/angular-resource.js?body=1" for 127.0.0.1 at 2016-02-23 10:41:02 +0800
+
+
+Started GET "/assets/angular-route.js?body=1" for 127.0.0.1 at 2016-02-23 10:41:02 +0800
+
+
+Started GET "/assets/angular-ui-bootstrap-tpls.js?body=1" for 127.0.0.1 at 2016-02-23 10:41:02 +0800
+
+
+Started GET "/assets/d3.js?body=1" for 127.0.0.1 at 2016-02-23 10:41:02 +0800
+
+
+Started GET "/assets/angular-config.js?body=1" for 127.0.0.1 at 2016-02-23 10:41:02 +0800
+
+
+Started GET "/assets/angular/controllers/playground1-controller.js?body=1" for 127.0.0.1 at 2016-02-23 10:41:02 +0800
+
+
+Started GET "/assets/angular/controllers/playground2-controller.js?body=1" for 127.0.0.1 at 2016-02-23 10:41:02 +0800
+
+
+Started GET "/assets/angular/controllers/playground3-controller.js?body=1" for 127.0.0.1 at 2016-02-23 10:41:02 +0800
+
+
+Started GET "/assets/angular/controllers/playground4-controller.js?body=1" for 127.0.0.1 at 2016-02-23 10:41:02 +0800
+
+
+Started GET "/assets/angular/controllers/playground5-controller.js?body=1" for 127.0.0.1 at 2016-02-23 10:41:02 +0800
+
+
+Started GET "/assets/angular/controllers/root-controller.js?body=1" for 127.0.0.1 at 2016-02-23 10:41:02 +0800
+
+
+Started GET "/assets/angular/directives/directives.js?body=1" for 127.0.0.1 at 2016-02-23 10:41:02 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2016-02-23 10:41:02 +0800
+
+
+Started GET "/assets/welcome.html" for 127.0.0.1 at 2016-02-23 10:41:02 +0800
+
+
+Started GET "/assets/partials/playground3.html" for 127.0.0.1 at 2016-02-23 10:41:02 +0800
+
+
+Started GET "/assets/partials/playground5.html" for 127.0.0.1 at 2016-02-23 10:41:03 +0800
+
+
+Started GET "/assets/partials/playground1.html" for 127.0.0.1 at 2016-02-23 10:41:03 +0800
+
+
+Started GET "/assets/partials/playground2.html" for 127.0.0.1 at 2016-02-23 10:41:03 +0800
+
+
+Started GET "/assets/partials/playground4.html" for 127.0.0.1 at 2016-02-23 10:41:03 +0800
